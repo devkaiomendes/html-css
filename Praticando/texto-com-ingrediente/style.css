@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body 
+h1 {
+    background: linear-gradient(to right, #2a2ac0, #ff0000);
+    background-clip: text;
+    color: transparent;
+}
